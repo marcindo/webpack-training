@@ -10,6 +10,13 @@
   "author": "marcindo",
   "license": "ISC",
   "devDependencies": {
-    "webpack": "^3.2.0"
+    "clean-webpack-plugin": "^0.1.16",
+    "css-loader": "^0.28.4",
+    "file-loader": "^0.11.2",
+    "html-webpack-plugin": "^2.29.0",
+    "image-webpack-loader": "^3.3.1",
+    "style-loader": "^0.18.2",
+    "webpack": "^3.2.0",
+    "xml-loader": "^1.2.1"
   }
 }
