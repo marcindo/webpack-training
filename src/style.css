@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'DroidSerif';
+  src: url('./DroidSerif-Regular.ttf');
+  font-weight: 600;
+  font-style: normal;
+}
+
+.hello {
+  color: red;
+  font-family: 'DroidSerif';
+  background: url('./icon.png');
+}
